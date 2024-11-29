@@ -54,10 +54,3 @@
 
 <img src="images/english/english_light.jpg" alt="Logo" width="800">
 <img src="images/english/english_dark.jpg" alt="Logo" width="800">
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-url]: https://github.com/JuanAntBuit/WeatherProject/blob/master/LICENSE
-[product-screenshot]: images/screenshot.png
